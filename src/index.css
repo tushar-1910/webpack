@@ -1,0 +1,64 @@
+body
+{
+    background: lightcyan;
+}
+#root
+{
+    text-align: center;
+}
+#inputbox
+{
+    margin: 10px auto;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 50%;
+    background: whitesmoke;
+}
+
+#inputNote
+{
+    text-decoration: none;
+    border: none;
+    margin: 30px auto;
+    background: #ddd;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.addbtn
+{
+    margin: 10px;
+    height: 40px;
+    width: 130px;
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.addbtn:hover
+{
+    cursor: pointer;
+    background: seagreen;
+}
+#logo
+{
+    height: 100px;
+    width: 100px;
+}
+
+#box
+{
+    background: seashell;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.note
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
